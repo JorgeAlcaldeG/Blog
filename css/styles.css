@@ -131,6 +131,10 @@ img {
     background-position: center;
 }
 
+footer {
+    background-color: grey;
+}
+
 @media only screen and (max-width: 600px) {
     /*reglas*/
     /* column-3 pasará de tener 33.33% a 100% */
